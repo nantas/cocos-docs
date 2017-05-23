@@ -1,4 +1,4 @@
-# Cocos Creator v1.4.x User Manual
+# Cocos Creator v1.5.x User Manual
 
 Welcome to the Cocos Creator User Manual! Cocos Creator is a free, cross-platform, 
 game development tool based on Cocos2d-x. This is a comprehensive and detailed guide 
@@ -7,9 +7,8 @@ to help you get started with designing and developing games.
 ## Index
 
 - [Getting Started](getting-started/index.md)
-- [The Basics](getting-started/basics/index.md)
 - [Asset Workflow](asset-workflow/index.md)
-- [Content Workflow](content-workflow/index.md)
+- [Scene Creation Workflow](content-workflow/index.md)
 - [Renderer and Graphics](render/index.md)
 - [UI](ui/index.md)
 - [Scripting](scripting/index.md)
