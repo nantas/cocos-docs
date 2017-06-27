@@ -34,7 +34,8 @@ You can also compile project by using `--compile` command, the parameters is the
  
  - `inlineSpriteFrames` - Whether or not inline all SpriteFrames
  - `mergeStartScene` - Whether or not merge all JSON that the Start Scene depends on
- 
+ - `optimizeHotUpdate` - Whether or not merge all the SpriteFrames in the same atlas
+
  - `packageName` - Package Name
  - `useDebugKeystore` - Whether or not use debug keystore
  - `keystorePath` - Keystore path
@@ -53,7 +54,9 @@ You can also compile project by using `--compile` command, the parameters is the
  - `appKey` - AnySDK App Key
  - `appSecret` - AnySDK App Secret
  - `privateKey` - AnySDK Private Key
- 
+
+ - `includeEruda` - Whether or not inject Eruda debug plugin on web platform
+
  - `autoCompile` - Whether or not auto compile project after publish project. Default is **false**.
 
  - `configPath` - Config file path. If define `configPath`, then creator will load this file as a `json` file, and combine with the build parameters.

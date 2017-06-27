@@ -19,7 +19,7 @@ Suppose we are making a physics game: we have physics colliders and tiled map as
 
 Here we also created a new node as camera carrier, using a separate node as a camera node will be more flexible. Of course, we can also directly add the camera components to the hero node, but this camera can only at the exact position of hero, and can not implement any smooth follow effect. 
 
-![Camera-2](./camera/camera-2.png)
+<img src="./camera/camera-2.png" style="width:50%;height:50%"></img>
 
 Here the camera component adds three nodes to the `targets` property, that is, we need the camera to shoot these three nodes. And we also added a **camera-control** components, the role of this component is mainly to move the camera node to follow the hero node.
 

@@ -1,6 +1,5 @@
 # Renderer and Graphics
 
-- [Camera](camera.md)
 - Renderer Components
   - [Sprite](../components/sprite.md)
   - [Label](../components/label.md)

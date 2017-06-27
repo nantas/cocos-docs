@@ -74,6 +74,7 @@ pages:
         - '_Spine': 'editors_and_tools/creator-chapters/asset-workflow/spine.md'        
         - '_DragonBones': 'editors_and_tools/creator-chapters/asset-workflow/dragonbones.md'                
         - '_Tiledmap': 'editors_and_tools/creator-chapters/asset-workflow/tiledmap.md'                        
+        - '_Import Export': 'editors_and_tools/creator-chapters/asset-workflow/import-export.md'
         - '_Import Project from other Editor': 'editors_and_tools/creator-chapters/asset-workflow/project-import.md'
         - 'Scene Building Workflow': 'editors_and_tools/creator-chapters/content-workflow/index.md'
         - '_Node and Component': 'editors_and_tools/creator-chapters/content-workflow/node-component.md'
@@ -281,6 +282,9 @@ pages:
         - '_Batch Render BMFont and Sprite': 'editors_and_tools/creator-chapters/advanced-topics/ui-auto-batch.md'        
         - '_JavaScript to Java Reflection': 'editors_and_tools/creator-chapters/advanced-topics/java-reflection.md'        
         - '_JavaScript to Objective-C Reflection': 'editors_and_tools/creator-chapters/advanced-topics/oc-reflection.md'        
+        - 'SDK Integration': 'editors_and_tools/creator-chapters/sdk/anysdk-overview.md'
+        - '_AnySDK Framework': 'editors_and_tools/creator-chapters/sdk/anysdk/anysdk-framework.md'
+        - '_Integrate AnySDK': 'editors_and_tools/creator-chapters/sdk/anysdk/integrate-anysdk.md'
     - 'Editors & Tools':
         - 'Command-line tool': 'editors_and_tools/cocosCLTool.md'
         - 'Cocos Launcher': 'editors_and_tools/cocos.md'
